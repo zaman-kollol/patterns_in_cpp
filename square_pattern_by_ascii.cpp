@@ -12,7 +12,7 @@ int main(){
      for(int i=0; i<n; i++){   //inner loop for rows.
         for(int j=0; j<n; j++){ //inner loop for columns.
 
-             cout<<(char)(j+65)<<" "; 
+             cout<<(char)(j+65)<<" "; // ascii value of capital A=65. and also here perform type casting.
      }
            cout<<endl; //for new line after each row.
      }
