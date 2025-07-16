@@ -14,7 +14,7 @@
 
                 cout<<j<<" ";
         }
-            cout<<endl; 
+            cout<<endl; //for new line after each row.
         }
         
         return 0;
