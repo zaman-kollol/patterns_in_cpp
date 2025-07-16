@@ -14,7 +14,7 @@
         for(int i=0; i<n; i++){    //inner loop for rows.
             for(int j=0; j<n; j++){  //inner loop for columns.
 
-                 cout<<(char)(num+65)<<" "; 
+                 cout<<(char)(num+65)<<" "; //type casting. 
                 num++; 
         }
             cout<<endl; //for new line after each row.
